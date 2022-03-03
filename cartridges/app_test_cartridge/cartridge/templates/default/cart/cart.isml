@@ -66,6 +66,9 @@
                     </isloop>
                     <isinclude template="cart/cartApproachingDiscount" />
                 </div>
+
+                <isif condition="${pdict.notes.length == 0}" > <h1>${Resource.msg('info.cart.user.nonotes','cart',null)}</h1> </isif>
+
                 <!---totals, and checkout actions--->
                 <div class="col-sm-5 col-md-4 totals">
                     <isinclude template="cart/cartPromoCode" />
