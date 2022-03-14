@@ -6159,6 +6159,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Go to Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Go to Terms"&gt;Terms&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Go to Jobs"&gt;Jobs&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;À propos&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;À propos&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
@@ -6166,6 +6167,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Aller à Déclaration de confidentialité"&gt;Confidentialité&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Aller à Conditions générales"&gt;Conditions générales&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Aller à Carrières"&gt;Carrières&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;Informazioni su&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Informazioni su&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
@@ -6173,6 +6175,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Vai a Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Vai a Termini"&gt;Termini&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Vai a Lavora con noi"&gt;Lavora con noi&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;企業情報&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;企業情報&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
@@ -6180,6 +6183,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="「プライバシー」に移動する"&gt;プライバシー&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="「利用条件」に移動する"&gt;利用条件&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="「採用情報」に移動する"&gt;採用情報&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;关于&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;关于&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
@@ -6207,6 +6211,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Go to Check Order"&gt;Check Order&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;!-- &lt;li&gt;&lt;a href="$httpsURL('Wishlist-Search')$" title="Go to Wishlist"&gt;Find a Wishlist&lt;/a&gt;&lt;/li&gt; --&gt;&#13;
                 &lt;!-- &lt;li&gt;&lt;a href="$httpsURL('GiftRegistry-Landing')$" title="Go to Gift Registry"&gt;Gift Registry&lt;/a&gt;&lt;/li&gt; --&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;Compte&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Compte&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
@@ -6214,6 +6219,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Aller à Vérifier la commande"&gt;Vérifier la commande&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Aller à Liste de souhaits"&gt;Liste de souhaits&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Aller à Liste de cadeaux"&gt;Liste de cadeaux&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;Account&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Account&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
@@ -6221,6 +6227,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Vai a Controlla ordine"&gt;Controlla ordine&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Vai a Lista desideri"&gt;Lista desideri&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Vai a Lista regali"&gt;Lista regali&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;アカウント&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;アカウント&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
@@ -6228,6 +6235,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="「注文の確認」に移動する"&gt;注文の確認&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="「ほしい物リスト」に移動する"&gt;ほしい物リスト&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="「ギフトレジストリ」に移動する"&gt;ギフトレジストリ&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;账户&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;账户&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
@@ -6235,6 +6243,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="前往查看订单"&gt;检查订单&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="前往愿望清单"&gt;愿望清单&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="前往礼品登记"&gt;礼品登记&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
         </custom-attributes>
     </content>
@@ -6278,15 +6287,15 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <page-attributes/>
         <custom-attributes>
             <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;Locate Store&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;The Store Locator is designed to help you find the closest store near you.&lt;/span&gt;</custom-attribute>
+                &lt;span class="content"&gt;The Store Locator is designed to help you find the closest store near you. FOUND IT&lt;/span&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;Localiser des magasins&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;Le localisateur de magasins vous aide à trouver le magasin le plus proche.&lt;/span&gt;</custom-attribute>
+                &lt;span class="content"&gt;Le localisateur de magasins vous aide à trouver le magasin le plus proche. FOUND IT&lt;/span&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;Trova negozio&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;Lo Store Locator è lo strumento che ti aiuta a trovare il negozio più vicino a te.&lt;/span&gt;</custom-attribute>
+                &lt;span class="content"&gt;Lo Store Locator è lo strumento che ti aiuta a trovare il negozio più vicino a te.FOUND IT&lt;/span&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;店舗検索&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;「店舗検索」でお近くの店舗を検索していただけます。&lt;/span&gt;</custom-attribute>
+                &lt;span class="content"&gt;「店舗検索」でお近くの店舗を検索していただけますFOUND IT&lt;/span&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;查找实体店&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;实体店地址搜索旨在帮助您查找周围最近的实体店。&lt;/span&gt;</custom-attribute>
+                &lt;span class="content"&gt;实体店地址搜索旨在帮助您查找周围最近的实体店。FOUND IT&lt;/span&gt;</custom-attribute>
         </custom-attributes>
     </content>
 
@@ -6354,6 +6363,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Go to Gift Certificates"&gt;Gift Certificates&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Go to Help"&gt;Help&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Go to Site Map"&gt;Site Map&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;Service client&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Service client&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
@@ -6361,6 +6371,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$#('GiftCert-Purchase')$" title="Aller à Chèques-cadeaux"&gt;Chèques-cadeaux&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Aller à Aide"&gt;Aide&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Aller à Plan du site"&gt;Plan du site&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;Servizio clienti&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Servizio clienti&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
@@ -6368,6 +6379,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Vai a Certificati regalo"&gt;Certificati regalo&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Vai a Guida"&gt;Guida&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="Vai a Mappa del sito"&gt;Mappa del sito&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;カスタマーサービス&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;カスタマーサービス&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
@@ -6375,6 +6387,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="「ギフト券」に移動する"&gt;ギフト券&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="「ヘルプ」に移動する"&gt;ヘルプ&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="「サイトマップ」に移動する"&gt;サイトマップ&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;客户服务&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;客户服务&lt;/h2&gt;&lt;/div&gt;&#13;
                 &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
@@ -6382,6 +6395,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="前往礼券"&gt;礼券&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="前往帮助"&gt;寻求帮助&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="#" title="前往站点地图"&gt;站点地图&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;Found it&lt;/li&gt;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
         </custom-attributes>
     </content>
