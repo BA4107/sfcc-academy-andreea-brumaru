@@ -27,7 +27,7 @@
         <isslot id="home-product-set-m" description="Link to a Product Set." context="global" />
     </div>
 
-    <iscontentasset aid="student_guide_content_asset"/>
+    <iscontentasset aid="ex3_ContentAsset"/>
 
     <div class="home-email-signup">
         <div class="container">
