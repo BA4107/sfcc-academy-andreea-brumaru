@@ -11,20 +11,6 @@
         <isslot id="home-main-m" description="Main home page slot." context="global" />
     </div>
 
-    <br />
-
-    <!-- Carousel banner -->
-    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <iscontentasset aid="ex3_ContentAsset"/>
-            </div>
-            <div class="carousel-item">
-                <iscontentasset aid="ex4_contentasset"/>
-            </div>
-        </div>
-    </div>
-
     <div class="container home-categories homepage">
         <div class="row home-main-categories no-gutters">
             <isslot id="home-categories-m" description="Categories slots on the home page." context="global" />

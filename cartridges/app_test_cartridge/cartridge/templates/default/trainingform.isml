@@ -1,0 +1,167 @@
+<isdecorate template="common/layout/page">
+<br>
+    <h1 class="text-center">Shipping</h1>
+    <form action="${pdict.actionUrl}" class="registration" method="POST" name="${pdict.profileForm.htmlName}">
+    <div class="container">
+    <!--First name, last name-->
+        <div class="row">
+            <div class="col form-group
+            <isif condition=" ${!!pdict.profileForm.customer.firstname.mandatory === true}">required</isif>">
+                <label class="form-control-label" for="firstname">
+                    <isprint value="${pdict.profileForm.customer.firstname.label}" encoding="htmlcontent" />
+                </label>
+                <input type="text" class="form-control" id="firstname" <isprint
+                value=${pdict.profileForm.customer.firstname.attributes} encoding="off" />>
+                <div class="invalid-feedback" id="form-fname-error"></div>
+            </div>
+            <div class="col form-group
+            <isif condition=" ${!!pdict.profileForm.customer.lastname.mandatory === true}">required</isif>">
+                <label class="form-control-label" for="lastname">
+                    <isprint value="${pdict.profileForm.customer.lastname.label}" encoding="htmlcontent" />
+                </label>
+                <input type="text" class="form-control" id="lastname" <isprint
+                value=${pdict.profileForm.customer.lastname.attributes} encoding="off" />>
+                <div class="invalid-feedback" id="form-lname-error"></div>
+            </div>
+        </div>
+
+        <!--Adress1, Adress2-->
+        <div class="form-group required">
+            <label class="form-control-label" for="adress1"><isprint value="${pdict.profileForm.customer.adress1.label}" encoding="htmlcontent" /></label>
+            <input type="text" class="form-control" id="adress1">
+        </div>
+
+        <div class="form-group">
+            <label class="form-control-label" for="adress2"><isprint value="${pdict.profileForm.customer.adress2.label}" encoding="htmlcontent" /></label>
+            <input type="text" class="form-control" id="adress1">
+        </div>
+    
+        <!-- Country, state -->
+        <div class=row>
+            <div class="col form-group">
+                <label for="country"><isprint value="${pdict.profileForm.customer.country.label}" encoding="htmlcontent" /></label>
+                <select class="form-control" id="country">
+                    <option>Romania</option>
+                </select>
+            </div>
+            <div class="col form-group">
+                <label for="state"><isprint value="${pdict.profileForm.customer.state.label}" encoding="htmlcontent" /></label>
+                <select class="form-control" id="state">
+                    <option>Bucharest</option>
+                    <option>Brasov</option>
+                    <option>Vrancea</option>
+                    <option>Timisoara</option>
+                    <option>Ploiesti</option>
+                    <option>Galati</option>
+                    <option>Buzau</option>
+                    <option>Baia Mare</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Postal code, phone number -->
+        <div class=row>
+            <div class="col form-group">
+                <label for="postalcode"><isprint value="${pdict.profileForm.customer.postalcode.label}" encoding="htmlcontent" /></label>
+                <input type="text" class="form-control" id="postalcode">
+                <small class="form-text text-muted">Example: 12345</small>
+            </div>
+            <div class="col form-group">
+                <label for="phone"><isprint value="${pdict.profileForm.customer.phone.label}" encoding="htmlcontent" /></label>
+                <input type="text" class="form-control" id="phone">
+                <small class="form-text text-muted">Example: 0712345678</small>
+            </div>
+        </div>
+        <!-- Text area -->
+        <div class="form-group">
+            <label for="comments"><isprint value="${pdict.profileForm.customer.comments.label}" encoding="htmlcontent" /></label>
+            <textarea class="form-control" id="comments" rows="3"></textarea>
+        </div>
+    </div>
+    </form>
+    <br>
+    <h1 class="text-center">Payment</h1>
+    <form action="${pdict.actionUrl}" class="registration" method="POST" name="${pdict.profileForm.htmlName}">
+        <div class="container">
+            <div class="form-group required">
+                <label class="form-control-label" for="cardnumber"><isprint value="${pdict.profileForm.customer.cardnumber.label}" encoding="htmlcontent" /></label>
+                <input type="text" class="form-control" id="cardnumber">
+            </div>
+
+            <div class=row>
+            <div class="col form-group">
+                <label for="cardmonth"><isprint value="${pdict.profileForm.customer.cardmonth.label}" encoding="htmlcontent" /></label>
+                <select class="form-control" id="cardmonth">
+                    <option>January</option>
+                    <option>February</option>
+                    <option>March</option>
+                    <option>April</option>
+                    <option>May</option>
+                    <option>June</option>
+                    <option>July</option>
+                    <option>August</option>
+                    <option>September</option>
+                    <option>October</option>
+                    <option>November</option>
+                    <option>December</option>
+                </select>
+            </div>
+            <div class="col form-group">
+                <label for="cardyear"><isprint value="${pdict.profileForm.customer.cardyear.label}" encoding="htmlcontent" /></label>
+                <select class="form-control" id="cardyear">
+                    <option>2022</option>
+                    <option>2023</option>
+                    <option>2024</option>
+                    <option>2025</option>
+                    <option>2026</option>
+                </select>
+            </div>
+        </div>
+        <div class=row>
+        <div class="col form-group required">
+            <label class="form-control-label" for="securitycode"><isprint value="${pdict.profileForm.customer.securitycode.label}" encoding="htmlcontent" /></label>
+            <input type="text" class="form-control" id="securitycode">
+        </div>
+
+        <div class="col form-group">
+            <label class=" form-control-label" for="email">
+                <isprint value="${pdict.profileForm.customer.email.label}" encoding="htmlcontent" />
+            </label>
+            <input type="text" class="form-control" id="email" <isprint
+                value=${pdict.profileForm.customer.email.attributes} encoding="off" />>
+        </div>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="save-account">
+            <label class="form-check-label" for="save-account">Save Account</label>
+</div>
+        </div>
+        <br>
+        <div class="row justify-content-center">
+        <button type="submit" class="col-5 btn btn-primary btn-lg">Save</button>
+        <div class="col-1"/>
+        <button onclick="topFunction()" class="col-1 btn-secondary rounded-circle" id="myBtn" title="Go to top"> .</button>
+        </div>
+        </form>
+</isdecorate>
+<script>
+//Get the button:
+mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+</script>
