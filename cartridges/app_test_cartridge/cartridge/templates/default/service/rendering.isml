@@ -1,0 +1,8 @@
+<isinclude template="/components/modules" sf-toolkit="off"/>
+<isdecorate template="common/layout/page">
+    <div class="row justify-content-center">
+        <div class="col p-5"><iscontentasset aid="ex6_contentasset"/></div>
+        <div class="col p-5"><iscontentasset aid="ex6_contentasset"/></div>
+        <div class="col p-5"><iscontentasset aid="ex6_contentasset"/></div>
+    </div>
+</isdecorate>
